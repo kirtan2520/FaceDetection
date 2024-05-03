@@ -1,0 +1,8 @@
+opencv-python==4.5.3.56
+numpy
+pillow
+opencv-contrib-python
+face_recognition 
+keras
+cmake
+dlib 
